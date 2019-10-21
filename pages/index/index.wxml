@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="continear vertical centered">
+  <view>
+    <icon type="success" size="56">
+  </view>
+</view>

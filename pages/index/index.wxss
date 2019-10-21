@@ -1,0 +1,46 @@
+/**index.wxss**/
+movable-area {
+  width: 100vw;
+  height: 50vh;
+  background: #ededed;
+}
+movable-view {
+  width: 80px;
+  height: 80px;
+  background:#6435c9;
+}
+image {
+  width: 100%;
+}
+button {
+  margin: 8px;
+}
+.red {
+  background: #db2828;
+}
+.yellow {
+  background: yellow;
+}
+.bule {
+  background: blue;
+}
+.lighten {
+  opacity: 0.85;
+}
+.ocntinear {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100vh;
+  width: 100vh;
+}
+.ocntinear view {
+  width: 100%;
+  height: 100%;
+}
+.ocntinear text {
+  color: #ffff;
+  padding: 16px;
+  display: block;
+  font-size: 32px;
+}
